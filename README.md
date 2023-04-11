@@ -1,2 +1,2 @@
-# password-manager
-A password manager 
+# typescript projects
+typescript project repo
